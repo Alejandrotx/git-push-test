@@ -1,0 +1,17 @@
+commit 0e8d12aef52e1b93bb45291591e43e27fed0ef69
+Author: Alejandro <alejandro@trasendix.com>
+Date:   Wed May 10 00:53:21 2017 -0500
+
+    Nuevo producto agregado
+
+commit 016bfc5fd0ce2b0cf92119b3b46afd55a3ae3324
+Author: Alejandro <alejandro@trasendix.com>
+Date:   Wed May 10 00:41:22 2017 -0500
+
+    Nueva sección agregada
+
+commit d97cbf9d67e1fcade8c06142df7f963250d7b6ca
+Author: Alejandro <alejandro@trasendix.com>
+Date:   Wed May 10 00:37:31 2017 -0500
+
+    Inicio del proyecto
